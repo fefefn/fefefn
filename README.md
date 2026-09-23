@@ -1,77 +1,197 @@
+
 # 👋 Hi, I'm Mayank Patil
 
-### 💻 Full Stack Web Developer | MERN Stack
+### Full Stack Software Engineer | React.js | Node.js | TypeScript
 
-I'm a Full Stack Web Developer focused on building modern, responsive, and scalable web applications using the MERN stack.
+I’m a Full Stack Software Engineer focused on building responsive, scalable, and production-oriented web applications.
 
-I enjoy turning ideas into real-world applications and continuously improving my skills in web development.
+I specialize in developing modern frontend experiences with React and TypeScript, building backend APIs with Node.js and Express.js, and working with MongoDB for data management.
+
+I enjoy solving real-world engineering problems, improving application security, and turning product ideas into functional web applications.
+
+📍 Based in India | Open to Full Stack & Backend Development Opportunities
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 MCA Graduate — Chameli Devi Group of Institutions, Indore
-- 💻 Focused on Full Stack Web Development
-- 🌱 Currently improving my skills in React.js, Node.js and MongoDB
-- 🔐 Interested in Authentication, REST APIs and Backend Development
-- 🚀 Building real-world projects with the MERN stack
+- 💻 Full Stack Software Engineer focused on JavaScript and TypeScript development
+- ⚛️ Building frontend applications with React.js, Redux Toolkit, and modern UI libraries
+- 🛠️ Developing backend APIs using Node.js, Express.js, and REST architecture
+- 🔐 Working with authentication, authorization, JWT, and API security
+- 🗄️ Experienced with MongoDB, Mongoose, and database-driven applications
+- 💳 Implementing payment workflows using Razorpay
+- ☁️ Exploring cloud deployment using Vercel, Render, and MongoDB Atlas
+- 🌱 Continuously improving my software engineering and system design skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-### Frontend
+### Frontend Development
+
+- React.js
+- TypeScript
+- JavaScript (ES6+)
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- React.js
 - Tailwind CSS
 - Redux Toolkit
-- Context API
+- React Router
+- React Query
+- Vite
+- Framer Motion
+- Responsive Web Design
 
-### Backend
+### Backend Development
+
 - Node.js
 - Express.js
-- RESTful APIs
+- TypeScript
+- RESTful API Development
 - JWT Authentication
-- Bcrypt
+- Role-Based Access Control
+- bcrypt Password Hashing
+- API Validation
+- Error Handling
+- Rate Limiting
+- Webhook Integration
 
-### Database
+### Database & Data Management
+
 - MongoDB
 - Mongoose
+- PostgreSQL
+- Database Schema Design
+- Query Optimization
+- Indexing
+- Data Validation
 
-### Tools
-- Git
-- GitHub
+### Integrations & Deployment
+
+- Razorpay Payment Gateway
+- Git & GitHub
 - Postman
-- VS Code
+- Docker
+- Vercel
+- Render
+- MongoDB Atlas
+- Environment Configuration
 
 ---
 
-## 📌 Featured Projects
+## 💼 Featured Projects
 
-### 🛒 Full Stack E-Commerce Platform
-**React.js | Node.js | Express.js | MongoDB | JWT**
+### 🛒 Vistora — Full Stack E-Commerce Platform
 
-A full-stack e-commerce application with user authentication, product management, shopping cart, orders, and role-based access.
+**React.js | TypeScript | Node.js | Express.js | MongoDB | Razorpay**
 
-### 📊 Project Management & Task Tracking System
-**React.js | Node.js | Express.js | MongoDB**
+🔗 **Live Demo:** [vistora-green.vercel.app](https://vistora-green.vercel.app)
 
-A project management application with task assignment, role-based access control, status tracking, notifications, and progress monitoring.
+🔗 **GitHub Repository:** [fefefn/vistora](https://github.com/fefefn/vistora)
+
+Vistora is a modern full-stack e-commerce platform developed to provide a complete online shopping experience.
+
+#### Key Features
+
+- User registration and JWT-based authentication
+- Role-based access control for customers and administrators
+- Product search, filtering, sorting, and pagination
+- Gender, category, brand, price, size, and rating filters
+- Shopping cart and wishlist management
+- Cash on Delivery and Razorpay Test Mode payments
+- Payment signature and payment data validation
+- Order creation, order history, and cancellation
+- Stock restoration during order cancellation
+- Refund request management
+- Razorpay refund integration and webhook verification
+- Admin product and order management
+- Responsive interface for desktop and mobile users
+
+#### Engineering Focus
+
+- Protected API routes and role-based authorization
+- Payment verification and duplicate payment protection
+- Request rate limiting
+- Environment-based configuration
+- Database readiness checks
+- Production deployment using Vercel, Render, and MongoDB Atlas
+
+---
 
 ### 🎓 Student Management System
-**Web Development**
 
-A student management application for managing student-related information and operations.
+**React.js | Node.js | Express.js | MongoDB**
+
+A web application for managing student-related information and operations.
+
+#### Key Areas
+
+- Frontend and backend integration
+- REST API development
+- MongoDB database integration
+- Structured application architecture
+- Form handling and data management
 
 ---
 
-## 🤝 Connect With Me
+### 📊 Project Management & Task Tracking System
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-gurjar-25053733a/)
-- 💻 [GitHub](https://github.com/fefefn)
+**React.js | Node.js | Express.js | MongoDB**
+
+A project management application focused on organizing tasks and tracking project progress.
+
+#### Key Areas
+
+- Task assignment
+- Role-based access control
+- Task status tracking
+- Progress monitoring
+- Backend API integration
+- Database-driven application workflows
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🔐 Areas of Technical Interest
+
+- Full Stack Web Development
+- React.js Application Architecture
+- Backend API Design
+- Authentication & Authorization
+- Database Design
+- Payment Gateway Integration
+- API Security
+- Cloud Deployment
+- Scalable Application Architecture
+- System Design
+
+---
+
+## 📈 Current Learning Focus
+
+- Advanced React.js patterns and performance optimization
+- TypeScript best practices
+- Backend architecture and API security
+- Database optimization and indexing
+- System design fundamentals
+- Docker and cloud deployment
+- Testing and production-quality development
+
+---
+
+## 🤝 Let's Connect
+
+I’m interested in connecting with developers, engineering teams, and organizations working on real-world software products.
+
+- 💼 **LinkedIn:** [Mayank Patil](https://www.linkedin.com/in/mayank-gurjar-25053733a/)
+- 💻 **GitHub:** [fefefn](https://github.com/fefefn)
+- 🛒 **Featured Project:** [Vistora E-Commerce Platform](https://vistora-green.vercel.app)
+
+---
+
+## ⭐ Thanks for Visiting
+
+Thanks for visiting my GitHub profile!
+
+Feel free to explore my repositories and projects.
